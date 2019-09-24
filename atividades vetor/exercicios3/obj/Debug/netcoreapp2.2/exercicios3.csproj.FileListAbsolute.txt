@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\atividades vetor\exercicios3\bin\Debug\netcoreapp2.2\exercicios3.deps.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\atividades vetor\exercicios3\bin\Debug\netcoreapp2.2\exercicios3.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\atividades vetor\exercicios3\bin\Debug\netcoreapp2.2\exercicios3.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\atividades vetor\exercicios3\bin\Debug\netcoreapp2.2\exercicios3.dll
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\atividades vetor\exercicios3\bin\Debug\netcoreapp2.2\exercicios3.pdb
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\atividades vetor\exercicios3\obj\Debug\netcoreapp2.2\exercicios3.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\atividades vetor\exercicios3\obj\Debug\netcoreapp2.2\exercicios3.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\atividades vetor\exercicios3\obj\Debug\netcoreapp2.2\exercicios3.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\atividades vetor\exercicios3\obj\Debug\netcoreapp2.2\exercicios3.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\atividades vetor\exercicios3\obj\Debug\netcoreapp2.2\exercicios3.dll
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\atividades vetor\exercicios3\obj\Debug\netcoreapp2.2\exercicios3.pdb

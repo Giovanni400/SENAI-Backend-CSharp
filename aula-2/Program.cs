@@ -32,7 +32,7 @@ namespace aula_2
         } else {
 
             Console.WriteLine($"Média: {media} Aluno reprovado");
-
+          
         }
         
 
