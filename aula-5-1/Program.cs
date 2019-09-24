@@ -37,21 +37,21 @@ namespace aula_5_1
                                 Console.WriteLine("nao é possivel cadastrar mais produtos");
                             }else{
                                 while(voltar == true){
-                                Console.WriteLine("digite o nome do produto: ");
-                                nome[p] = Console.ReadLine();
-                                Console.WriteLine("digite o valor do produto: ");
-                                valor[p] = float.Parse(Console.ReadLine());
-                               
-                                if(p <= 9 ){
-                                    Console.WriteLine("gostaria de cadastrar mais um produto? [true/false]");
-                                    voltar = bool.Parse(Console.ReadLine());
-                                    p++;
+                                    Console.WriteLine("digite o nome do produto: ");
+                                    nome[p] = Console.ReadLine();
+                                    Console.WriteLine("digite o valor do produto: ");
+                                    valor[p] = float.Parse(Console.ReadLine());
+                                
+                                    if(p <= 9 ){
+                                        Console.WriteLine("gostaria de cadastrar mais um produto? [true/false]");
+                                        voltar = bool.Parse(Console.ReadLine());
+                                        p++;
+                                    }
+                                    if(p == 10){
+                                        voltar = false;
+                                        Console.WriteLine("nao é possivel cadastrar mais produtos");
+                                    }
                                 }
-                                if(p == 10){
-                                    voltar = false;
-                                    Console.WriteLine("nao é possivel cadastrar mais produtos");
-                                }
-                            }
                             
                             }
                             
@@ -77,7 +77,7 @@ namespace aula_5_1
 
                         default:
                             // nenhuma das opçoes selecionadas
-                            Console.WriteLine("obrigado pela preferencia");
+                            Console.WriteLine("Opção invalida");
                         break;
                     }
                 }
